@@ -30,3 +30,12 @@ Division       : 3.333333333333335
 Remainder      : 1
 Power          : 1000
 Floor Division :  3
+
+---
+
+marks = 75
+
+print("Marks >= 40:", marks >= 40)
+print("Marks <= 40:", marks < 40)
+print("Marks == 75:", marks == 75)
+print("Marks != 75:", marks != 75)
