@@ -49,7 +49,7 @@ print("Marks != 75:", marks != 75)
 # Logical Operator's
 
 age = 21
-has_id 
+has_id = true
 
 print("Adult and has ID:", age >= 18 and has_id == true)
 print("Under 18 or has ID:", age < 18 or has_id == true)
