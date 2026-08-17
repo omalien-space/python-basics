@@ -39,3 +39,13 @@ elif -> another condition if the previous one was false
 else -> everything above was false
 
 ---
+
+#combined conditions
+
+cgpa = 8.5
+internship = False
+
+if cgpa >= 8.0 and not internship:
+  print ("Apply now")
+else:
+  print ("Wait")
