@@ -62,6 +62,3 @@ I love Python
 .strip()  -> remove surrounding spaces
 .replace()-> replace text
 len()     -> count characters
-
-
-
